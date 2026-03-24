@@ -30,3 +30,7 @@ The AI output is powered by an OpenRouter free model and rendered as readable ma
 - No saved history yet
 - No auth or rate limiting
 - Quality depends on the chosen OpenRouter model and the clarity of the input spec
+
+
+Build on Sundai Club on March 24, 2026  
+Sundai Project: https://www.sundai.club/projects/59f346b0-6481-47a8-989b-e49a6474c5e1
